@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "3 ingredient brownies.md",
+            "file": "Vegan scones.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 ingredient brownies.md",
+                "file": "Vegan scones.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,6 +136,8 @@
   },
   "active": "8a05071c75950101",
   "lastOpenFiles": [
+    "Vegan scones.md",
+    "Vegan cream.md",
     "3 ingredient brownies.md",
     "Energy balls.md",
     "roasted chickpeas.md",
@@ -143,8 +145,6 @@
     "Climate Change/Costs of Action.md",
     "Climate Change/Animal Agriculture’s Environmental Impact.md",
     "Animal Intelligence and Sentience/Pigs.md",
-    "Animal Intelligence and Sentience/Cows.md",
-    "Invertebrates and Ethics/Oysters.md",
-    "Lab Grown Meat/Lab Grown Meat.md"
+    "Animal Intelligence and Sentience/Cows.md"
   ]
 }
