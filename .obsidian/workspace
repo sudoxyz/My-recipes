@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "426b6149584f3aea",
+    "type": "split",
+    "children": [
+      {
+        "id": "8a05071c75950101",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4a6267cea4e0f8a4",
+    "type": "split",
+    "children": [
+      {
+        "id": "8fe707fcb1599703",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "58386c4365022d5a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "4fb5bb1235c2f669",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dbe9c25feb2c8d5c",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "955e8517ec87e294",
+    "type": "split",
+    "children": [
+      {
+        "id": "81aaa3056861ab5b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cc3e4c5d09a83dff",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "7132ceb44795f422",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "13be38b0fe5af18b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "421bbe43f4667a4d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6d27591bf6edce7c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "8a05071c75950101",
+  "lastOpenFiles": [
+    "Climate Change/Costs of Action.md",
+    "Climate Change/Animal Agriculture’s Environmental Impact.md",
+    "Animal Intelligence and Sentience/Pigs.md",
+    "Animal Intelligence and Sentience/Cows.md",
+    "Invertebrates and Ethics/Oysters.md",
+    "Lab Grown Meat/Lab Grown Meat.md",
+    "Misrepresentations and Myths/“The world won’t go vegan!”.md",
+    "Misrepresentations and Myths/Harmful “Effects” of Soy.md",
+    "Misrepresentations and Myths/Misrepresentations and Myths.md",
+    "Misrepresentations and Myths/Privileged Diet.md"
+  ]
+}
