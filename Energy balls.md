@@ -1,15 +1,21 @@
-My vegan energy balls
+***Energy balls***
 
-***30g blended almonds*** - for fat / texture
+----------------------------------------------------------------------
 
-***1.5 tsp cocoa powder*** - make it chocolatey
+**30g blended almonds** - for fat / texture
 
-***pinch salt*** - for flavour
+**1.5 tsp cocoa powder** - make it chocolatey
 
-***80g blended dates*** - to combine and to sweeten 
+**pinch salt** - for flavour
 
-***20g nut butter*** - for fat and energy
+**80g blended dates** - to combine and to sweeten 
 
-***Vegan chocolate chips (optional)*** - for flavour / texture
+**20g nut butter** - for fat and energy
 
-Combine all and roll into ball and you are done!!
+**Vegan chocolate chips (optional)** - for flavour / texture
+
+------------------------------------------------------------------
+
+***Method***
+
+**Combine All Ingredients** - rly easy XD

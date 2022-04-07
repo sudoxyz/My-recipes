@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "8a05071c75950101",
+        "id": "44771fd300d0474f",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "roasted chickpeas.md",
+            "file": "3 ingredients Choco brownie.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "roasted chickpeas.md",
+                "file": "3 ingredients Choco brownie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,17 +96,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8a05071c75950101",
+  "active": "44771fd300d0474f",
   "lastOpenFiles": [
-    "roasted chickpeas.md",
-    "Vegan cream.md",
-    "Vegan scones.md",
-    "Vegan jerky.md",
-    "3 ingredient brownies.md",
-    "Energy balls.md",
-    "Climate Change/Costs of Action.md",
-    "Climate Change/Animal Agriculture’s Environmental Impact.md",
-    "Animal Intelligence and Sentience/Pigs.md",
-    "Animal Intelligence and Sentience/Cows.md"
+    "3 ingredients Choco brownie.md",
+    "Energy Balls.md",
+    "old format/3 ingredient brownies.md",
+    "old format/Vegan jerky.md",
+    "old format/Energy balls.md",
+    "vegan mug brownie.md",
+    "old format/Vegan scones.md",
+    "Templates/recipe template.md",
+    "old format/roasted chickpeas.md",
+    "old format/Vegan cream.md"
   ]
 }
