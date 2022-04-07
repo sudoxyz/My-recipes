@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Iced coffee.md",
+            "file": "3 ingredients Choco brownie.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -20,88 +20,73 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "3559dae9d5312022",
-    "type": "split",
+    "id": "d60992f78719552a",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "b673a172ed7c9afb",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "d705d19e461152dc",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            }
-          },
-          {
-            "id": "75cd2bd176b34dd0",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
+        "id": "07a957d4ec56f4f3",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "3da9e51df7910b3a",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
           }
-        ]
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300
+    "currentTab": 0
   },
   "right": {
-    "id": "dbc0ec07b45ae8a2",
-    "type": "split",
+    "id": "b3d5fc6cacaaef94",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "92a398ec59807404",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "26b84364e8475c98",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "7e1f66cc2ac58137",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Iced coffee.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
+        "id": "c910882ae8fa2fff",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      },
+      {
+        "id": "12440fde659e5f9d",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "3 ingredients Choco brownie.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
           }
-        ]
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "currentTab": 0
   },
   "active": "44771fd300d0474f",
   "lastOpenFiles": [
+    "3 ingredients Choco brownie.md",
     "Iced coffee.md",
     "vegan mug brownie.md",
     "old format/Vegan scones.md",
-    "3 ingredients Choco brownie.md",
     "Energy Balls.md",
     "old format/3 ingredient brownies.md",
     "old format/Vegan jerky.md",
