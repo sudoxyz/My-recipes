@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Vegan scones.md",
+            "file": "roasted chickpeas.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -20,15 +20,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "4a6267cea4e0f8a4",
+    "id": "3559dae9d5312022",
     "type": "split",
     "children": [
       {
-        "id": "8fe707fcb1599703",
+        "id": "b673a172ed7c9afb",
         "type": "tabs",
         "children": [
           {
-            "id": "58386c4365022d5a",
+            "id": "d705d19e461152dc",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -36,7 +36,7 @@
             }
           },
           {
-            "id": "4fb5bb1235c2f669",
+            "id": "75cd2bd176b34dd0",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -49,14 +49,6 @@
                 "sortOrder": "alphabetical"
               }
             }
-          },
-          {
-            "id": "dbe9c25feb2c8d5c",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
           }
         ]
       }
@@ -65,15 +57,15 @@
     "width": 300
   },
   "right": {
-    "id": "955e8517ec87e294",
+    "id": "dbc0ec07b45ae8a2",
     "type": "split",
     "children": [
       {
-        "id": "81aaa3056861ab5b",
+        "id": "92a398ec59807404",
         "type": "tabs",
         "children": [
           {
-            "id": "cc3e4c5d09a83dff",
+            "id": "26b84364e8475c98",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -81,12 +73,12 @@
             }
           },
           {
-            "id": "7132ceb44795f422",
+            "id": "7e1f66cc2ac58137",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vegan scones.md",
+                "file": "roasted chickpeas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,36 +87,6 @@
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
-            }
-          },
-          {
-            "id": "13be38b0fe5af18b",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "421bbe43f4667a4d",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "6d27591bf6edce7c",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {}
             }
           }
         ]
@@ -136,12 +98,12 @@
   },
   "active": "8a05071c75950101",
   "lastOpenFiles": [
-    "Vegan scones.md",
+    "roasted chickpeas.md",
     "Vegan cream.md",
+    "Vegan scones.md",
+    "Vegan jerky.md",
     "3 ingredient brownies.md",
     "Energy balls.md",
-    "roasted chickpeas.md",
-    "Vegan jerky.md",
     "Climate Change/Costs of Action.md",
     "Climate Change/Animal Agriculture’s Environmental Impact.md",
     "Animal Intelligence and Sentience/Pigs.md",
