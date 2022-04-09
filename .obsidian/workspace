@@ -20,66 +20,81 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "d60992f78719552a",
-    "type": "mobile-drawer",
+    "id": "489668d72599bd96",
+    "type": "split",
     "children": [
       {
-        "id": "07a957d4ec56f4f3",
-        "type": "leaf",
-        "state": {
-          "type": "file-explorer",
-          "state": {}
-        }
-      },
-      {
-        "id": "3da9e51df7910b3a",
-        "type": "leaf",
-        "state": {
-          "type": "search",
-          "state": {
-            "query": "",
-            "matchingCase": false,
-            "explainSearch": false,
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical"
+        "id": "41c4f65c9e37c23a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7d4af0fead681d41",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "2404bb1fd09c8c57",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
           }
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300
   },
   "right": {
-    "id": "b3d5fc6cacaaef94",
-    "type": "mobile-drawer",
+    "id": "1799e4674ac15e86",
+    "type": "split",
     "children": [
       {
-        "id": "c910882ae8fa2fff",
-        "type": "leaf",
-        "state": {
-          "type": "calendar",
-          "state": {}
-        }
-      },
-      {
-        "id": "12440fde659e5f9d",
-        "type": "leaf",
-        "state": {
-          "type": "backlink",
-          "state": {
-            "file": "3 ingredients Choco brownie.md",
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical",
-            "showSearch": false,
-            "searchQuery": "",
-            "backlinkCollapsed": false,
-            "unlinkedCollapsed": true
+        "id": "a380ea0f6779bb16",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aaf269f2208ade0a",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "7fe2d350f34c8555",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "3 ingredients Choco brownie.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
           }
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
   },
   "active": "44771fd300d0474f",
   "lastOpenFiles": [
@@ -91,7 +106,4 @@
     "old format/3 ingredient brownies.md",
     "old format/Vegan jerky.md",
     "old format/Energy balls.md",
-    "Templates/recipe template.md",
-    "old format/roasted chickpeas.md"
-  ]
-}
+    "Templates/recipe
